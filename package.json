@@ -34,7 +34,7 @@
     ],
     "dependencies": {
         "@qlik/sdk": "^0.25.0",
-        "axios": "^1.6.8",
+        "axios": "^1.7.8",
         "enigma.js": "^2.14.0",
         "ws": "^8.16.0"
     },
